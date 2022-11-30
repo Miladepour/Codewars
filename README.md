@@ -1,2 +1,2 @@
 # Codewars
-Kata Solutions
+Kata Solutions in Javascript
